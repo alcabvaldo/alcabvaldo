@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋, I'm Alejandro!
 
-🎹 A software developer from Paraguay with a love for technology, art, video games, and music. Always eager to learn and take on new challenges.
+🎹 A software developer from Paraguay with a love for technology, art, video games, and music.
 
 ## 🛠️ Technologies & Tools
 
